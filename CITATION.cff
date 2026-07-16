@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "Data and code for: Hospital-Acceptance Friction and Delayed Ambulance Scene Arrival: A Prefecture-Year Panel Study in Japan, 2014-2024"
-message: "If you use this dataset or code, please cite it using the metadata from this file (and the Zenodo DOI once available)."
+message: "If you use this dataset or code, please cite it using the metadata from this file."
 type: dataset
 authors:
   - family-names: "Saito"
@@ -14,6 +14,8 @@ authors:
 version: "1.0.0"
 date-released: "2026-07-16"
 repository-code: "https://github.com/haruki00430/hospital-acceptance-friction-ambulance-delay"
+doi: "10.5281/zenodo.21392281"
+url: "https://doi.org/10.5281/zenodo.21392281"
 license: "CC-BY-4.0"
 keywords:
   - ambulance
