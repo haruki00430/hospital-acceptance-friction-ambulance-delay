@@ -1,0 +1,23 @@
+{
+  "status": "PASS",
+  "checks": {
+    "n_rows_517": true,
+    "years_2014_2024": true,
+    "47_per_year": true,
+    "no_duplicate_keys": true,
+    "codes_1_47_each_year": true,
+    "no_primary_missing": true,
+    "denominator_positive": true,
+    "numerator_nonnegative": true,
+    "numerator_le_denominator": true,
+    "reported_pct_range": true,
+    "reported_rounding_match": true,
+    "all_double_checked": true,
+    "annual_population_totals_match": true,
+    "annual_numerator_totals_match": true
+  },
+  "failures": [],
+  "n_rows": 517,
+  "n_years": 11,
+  "n_prefectures": 47
+}

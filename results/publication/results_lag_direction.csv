@@ -1,0 +1,3 @@
+label,n_obs,n_clusters,outcome,exposure,estimate,wcb_ci_lo,wcb_ci_hi,wcb_p,wcb_p_display,ci_95_lo_report,ci_95_hi_report,ci_method,cr2_ci_lo,cr2_ci_hi,expected_est,expected_p,seed
+forward_lag,423,47,d_scene_ge10_pct_t,lag_d_accept_ge4_pct,0.50944462801512,0.153558793666799,0.903481677749839,0.0028002800280028,0.0028,0.153558793666799,0.903481677749839,WCB,0.0656365686427338,0.953252687387508,0.509445,0.0033,20260719
+reverse_lag,423,47,d_accept_ge4_pct_t,lag_d_scene_ge10_pct,-2.696333910647e-05,,,0.999299929992999,0.9993,-0.058943638681783,0.058889712003571,CR2_Satterthwaite_fallback,-0.058943638681783,0.058889712003571,0,0.9997,20260720

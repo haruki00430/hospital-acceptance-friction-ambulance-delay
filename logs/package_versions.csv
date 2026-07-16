@@ -1,0 +1,7 @@
+"package","version","repository"
+"data.table","1.18.4","CRAN"
+"fixest","0.14.2","CRAN"
+"fwildclusterboot","0.14.3","https://s3alfisc.r-universe.dev"
+"clubSandwich","0.7.0","CRAN"
+"jsonlite","2.0.0","CRAN"
+"digest","0.6.39","CRAN"

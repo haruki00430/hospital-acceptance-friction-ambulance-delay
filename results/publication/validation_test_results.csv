@@ -1,0 +1,9 @@
+test_id,description,expected,result,pass
+T01,Normal run: primary CSV created,PASS,PASS,TRUE
+T02,Corrupted file SHA mismatch detected,mismatch,PASS,TRUE
+T03,Denominator mismatch detected,DENOMINATOR_MISMATCH,PASS,TRUE
+T04,Duplicate key detected,DUPLICATE_KEY,PASS,TRUE
+T05,Primary outcome NA detected,PRIMARY_MISSING,PASS,TRUE
+T06,Missing output prevents COMPLETE status,completion_blocked,PASS,TRUE
+T07,build_summary present_n matches actual file count,present_n_correct,PASS,TRUE
+T08,scene_ge10_pct label free of '現場滞在',no_genjotaizai,PASS,TRUE

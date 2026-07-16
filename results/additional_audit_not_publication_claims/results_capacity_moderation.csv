@@ -1,0 +1,2 @@
+label,estimate_main,estimate_interaction,cluster_se_interaction,cluster_p_interaction,expected_interaction,note
+capacity_moderation_exploratory,0.262618410025489,0.157659714436236,0.0630145223837583,0.0159698620655639,0.161,exploratory; positive = limited ambulance reserve amplifies congestion coupling

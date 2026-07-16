@@ -1,0 +1,2 @@
+label,n_obs,n_clusters,estimate,cluster_se,wcb_ci_lo,wcb_ci_hi,wcb_p,wcb_p_display,cr2_se,cr2_df,cr2_p,cr2_ci_lo,cr2_ci_hi,seed,note
+S8_denominator_weighted,470,47,0.506934890219576,0.0377100469958806,0.283186761181297,0.584758579544228,0,< 0.0001,0.0841072819159939,1.43796841219795,0.0543138150893279,-0.030843326365758,1.04471310680491,20260715,sensitivity; primary remains unweighted

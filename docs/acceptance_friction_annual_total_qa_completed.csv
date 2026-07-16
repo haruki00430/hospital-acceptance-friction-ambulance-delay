@@ -1,0 +1,12 @@
+﻿year,pdf_total_analysis_population_n,sum_prefecture_analysis_population_n,population_total_match,pdf_total_inquiries_ge4_n,sum_prefecture_inquiries_ge4_n,numerator_total_match,notes
+2014,439547,439547,yes,14114,14114,yes,"target_pdf_page=9; pdf_total_line=合計 19 20 9 8 9 18 439,547 14,114 3.2% 4,103 428; extraction_method=text_table"
+2015,431642,431642,yes,11754,11754,yes,"target_pdf_page=9; pdf_total_line=合計 13 6 14 1 1 11 431,642 11,754 2.7% 3,096 267; extraction_method=text_table"
+2016,440106,440106,yes,10039,10039,yes,"target_pdf_page=8; pdf_total_line=合計 5 8 1 2 1 6 440,106 10,039 2.3% 2,311 159; extraction_method=text_table"
+2017,453618,453618,yes,9834,9834,yes,"target_pdf_page=8; pdf_total_line=合計 7 7 2 0 0 4 453,618 9,834 2.2% 2,222 142; extraction_method=text_table"
+2018,459167,459167,yes,10861,10861,yes,"target_pdf_page=8; pdf_total_line=合計 10 5 3 3 3 3 459,167 10,861 2.4% 2,583 197; extraction_method=text_table"
+2019,456973,456973,yes,11067,11067,yes,"target_pdf_page=8; pdf_total_line=合計 9 5 4 1 4 7 456,973 11,067 2.4% 2,596 186; extraction_method=text_table"
+2020,440136,440136,yes,12998,12998,yes,"target_pdf_page=8; pdf_total_line=合計 16 17 10 9 6 54 440,136 12,998 3.0% 3,527 379; extraction_method=text_table"
+2021,450378,450378,yes,19174,19174,yes,"target_pdf_page=8; pdf_total_line=合計 73 60 49 26 36 480 450,378 19,174 4.3% 6,875 1,470; extraction_method=text_table"
+2022,478840,478840,yes,34580,34580,yes,"target_pdf_page=8; pdf_total_line=合計 243 174 154 150 121 1,330 478,840 34,580 7.2% 15,600 4,461; extraction_method=text_table"
+2023,477749,477749,yes,30069,30069,yes,"target_pdf_page=8; pdf_total_line=合計 151 116 89 76 72 558 477,749 30,069 6.3% 12,052 2,710; extraction_method=text_table"
+2024,482778,482778,yes,26020,26020,yes,"target_pdf_page=8; pdf_total_line=合計 115 63 74 46 43 236 482,778 26,020 5.4% 9,677 1,732; extraction_method=text_table"

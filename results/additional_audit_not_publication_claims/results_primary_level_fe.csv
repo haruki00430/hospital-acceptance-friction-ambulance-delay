@@ -1,0 +1,2 @@
+label,outcome,exposure,n_obs,n_clusters,estimate,ci_lo_cluster,ci_hi_cluster,python_expected,delta
+supportive_level_fe,scene_ge10_pct,acceptance_ge4_pct,517,47,0.677458240590867,0.418867542537939,0.936048938643795,0.677458,2.40590866895651e-07

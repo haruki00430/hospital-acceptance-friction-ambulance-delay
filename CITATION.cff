@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Data and code for: Hospital-Acceptance Friction and Delayed Ambulance Scene Arrival: A Prefecture-Year Panel Study in Japan, 2014-2024"
+message: "If you use this dataset or code, please cite it using the metadata from this file (and the Zenodo DOI once available)."
+type: dataset
+authors:
+  - family-names: "Saito"
+    given-names: "Haruki"
+    affiliation: "Department of Epidemiology, Fukushima Medical University School of Medicine, Fukushima, Japan"
+    orcid: "https://orcid.org/0009-0009-7890-6068"
+  - family-names: "Ohira"
+    given-names: "Tetsuya"
+    affiliation: "Department of Epidemiology, Fukushima Medical University School of Medicine; Radiation Medical Science Center for the Fukushima Health Management Survey, Fukushima Medical University, Fukushima, Japan"
+    orcid: "https://orcid.org/0000-0003-4532-7165"
+version: "1.0.0"
+date-released: "2026-07-16"
+repository-code: "https://github.com/haruki00430/hospital-acceptance-friction-ambulance-delay"
+license: "CC-BY-4.0"
+keywords:
+  - ambulance
+  - emergency medical services
+  - hospital acceptance
+  - response time
+  - Japan
+  - panel data

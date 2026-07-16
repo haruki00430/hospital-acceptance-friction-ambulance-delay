@@ -1,0 +1,2 @@
+label,model_note,n_obs,estimate_main,estimate_interaction,cr2_p_interaction,cr2_se_interaction,interaction_significant,interpretation
+period_interaction_exploratory,OLS without year FE; period_post × d_accept_ge4_pct interaction,470,0.3302186597009,1.0031740518443,0.00207771439057553,0.241634520789692,TRUE,formally tested; interaction supported (p<0.05)

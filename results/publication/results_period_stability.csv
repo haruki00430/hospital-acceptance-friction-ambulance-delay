@@ -1,0 +1,3 @@
+period,fd_endpoint_years,source_years,n_obs,estimate,cluster_se,cluster_p,expected_est,expected_p,interpretation
+FD_endpoint_2015_2019,2015-2019,2014-2019,235,0.294501788212682,0.178556176242195,0.105889274383017,0.295,0.106,point estimate smaller; no formal test of period difference
+FD_endpoint_2020_2024,2020-2024,2020-2024,235,0.447218146238793,0.0819336628187403,1.86161769937864e-06,0.447,1.86e-06,point estimate larger; pandemic-era period

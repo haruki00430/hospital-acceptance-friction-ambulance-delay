@@ -1,0 +1,26 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+
+# Local rerun scratch (keep frozen publication outputs tracked)
+results/*.csv
+results/*.pdf
+!results/publication/
+!results/publication/**
+!results/additional_audit_not_publication_claims/
+!results/additional_audit_not_publication_claims/**
+figures/*.pdf
+
+# Secrets / local
+.env
+*.key

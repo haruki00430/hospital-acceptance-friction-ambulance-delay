@@ -1,0 +1,64 @@
+{
+  "version": "v1.1",
+  "phase": "P2R",
+  "run_date": "2026-07-15",
+  "r_version": "R version 4.6.1 (2026-06-24 ucrt)",
+  "B": 9999,
+  "seeds": {
+    "primary": 20260715,
+    "c1": 20260716,
+    "c2": 20260717,
+    "c3a": 20260718,
+    "c3b": 20260718,
+    "forward_lag": 20260719,
+    "reverse_lag": 20260720
+  },
+  "n_obs_fd": 470,
+  "n_obs_lag": 423,
+  "n_clusters": 47,
+  "primary_estimate": 0.4354,
+  "primary_wcb_p": 0.0003,
+  "primary_wcb_p_display": "3e-04",
+  "primary_wcb_ci": {
+    "lo": 0.222,
+    "hi": 0.5643
+  },
+  "primary_cr2_se": 0.0784,
+  "primary_cr2_p": 0.0004,
+  "s8_weighted_estimate": 0.5069,
+  "c3b_estimate": 0.0584,
+  "forward_lag_estimate": 0.5094,
+  "forward_lag_wcb_p": 0.0028,
+  "reverse_lag_estimate": -0,
+  "reverse_lag_wcb_p": 0.9993,
+  "reverse_lag_ci_method": "CR2_Satterthwaite_fallback",
+  "level_fe_estimate": 0.6775,
+  "loo_pref_range": {
+    "lo": 0.3619,
+    "hi": 0.4522
+  },
+  "loo_pref_sign_reversals": 0,
+  "loo_pref_max_relative_change": 0.169,
+  "loo_pref_max_impact_pref": 13,
+  "loo_year_range": {
+    "lo": 0.3365,
+    "hi": 0.5166
+  },
+  "loo_year_sign_reversals": 0,
+  "loo_year_max_relative_change": 0.2272,
+  "loo_year_max_impact_year": 2021,
+  "python_r_classification": "B",
+  "warn_flags": [
+    "[15:24:24] DEV-P2R-004: Reverse lag WCB CI inversion failed; using CR2/Satterthwaite fallback",
+    "W03: reverse-lag WCB CI inversion failed; CR2 fallback used",
+    "[15:24:26] W01: primary CI endpoint diff >0.05 ( 0.0567 )"
+  ],
+  "hard_stop_flags": [],
+  "total_runtime_minutes": 0.07,
+  "required_outputs_n": 30,
+  "present_n": 30,
+  "missing_outputs": [],
+  "all_hard_gates_pass": true,
+  "all_tests_pass": true,
+  "completion_status": "PHASE P2R COMPLETE — COEFFICIENT AND INFERENCE REPRODUCED; IMPLEMENTATION-LEVEL CI DIFFERENCE DOCUMENTED"
+}

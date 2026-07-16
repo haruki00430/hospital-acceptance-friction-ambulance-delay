@@ -1,0 +1,3 @@
+label,outcome,exposure,estimate,cluster_se,note
+D1_handover_ge60_pct,d_handover_ge60,d_accept_ge4_pct,0.841502527245917,0.0974710640478687,cumulative end-to-end outcome; not pure hospital handover stage
+D2_call_to_physician_handover_min,d_call_to_phys_ho,d_accept_ge4_pct,0.593013093158344,0.0522281092591328,cumulative end-to-end outcome; not pure hospital handover stage

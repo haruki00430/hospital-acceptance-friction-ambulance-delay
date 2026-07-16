@@ -1,0 +1,9 @@
+model,param,beta,ci_lo,ci_hi,wcb_p,N,clusters,seed,bootstrap_B,bootstrap_type,impose_null,notes
+primary,d_acceptance_ge4_pct,0.435446,0.248,0.621,0.0001,470,47,20260715,9999,rademacher,TRUE,Python custom WCB
+c1_scene_time,d_acceptance_ge4_pct,0.080529,0.003,0.157,0.0001,470,47,20260716,9999,rademacher,TRUE,Python custom WCB
+c2_burden,d_acceptance_ge4_cases_per_1000,0.402385,0.048,0.750,0.0025,470,47,20260717,9999,rademacher,TRUE,Python custom WCB
+c3a_scene_stay,d_scene_stay_ge30_pct,0.439212,0.212,0.672,0.0002,470,47,20260718,9999,rademacher,TRUE,Python custom WCB
+c3b_scene_stay_time,d_scene_stay_ge30_pct,NA,NA,NA,NA,470,47,NA,NA,NA,NA,Not computed in Python; new in v1.1
+forward_lag,lag_d_acceptance_ge4_pct,0.509445,0.112,0.906,0.0033,423,47,20260719,9999,rademacher,TRUE,Python custom WCB
+reverse_lag,lag_d_scene_ge10_pct,-0.000000,-0.062,0.061,0.9997,423,47,20260720,9999,rademacher,TRUE,Python custom WCB
+level_fe,acceptance_ge4_pct,0.677458,NA,NA,NA,517,47,NA,NA,cluster-robust,NA,No WCB in Python; cluster OLS CI

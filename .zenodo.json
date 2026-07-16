@@ -1,0 +1,37 @@
+{
+  "title": "Data and code for: Hospital-Acceptance Friction and Delayed Ambulance Scene Arrival: A Prefecture-Year Panel Study in Japan, 2014-2024",
+  "creators": [
+    {
+      "name": "Saito, Haruki",
+      "affiliation": "Department of Epidemiology, Fukushima Medical University School of Medicine, Fukushima, Japan",
+      "orcid": "0009-0009-7890-6068"
+    },
+    {
+      "name": "Ohira, Tetsuya",
+      "affiliation": "Department of Epidemiology, Fukushima Medical University School of Medicine; Radiation Medical Science Center for the Fukushima Health Management Survey, Fukushima Medical University, Fukushima, Japan",
+      "orcid": "0000-0003-4532-7165"
+    }
+  ],
+  "description": "Public aggregate prefecture-year dataset, R analysis code, result tables, figures, and reproducibility logs for a Japan prefecture-year panel study of hospital-acceptance friction and delayed ambulance scene arrival, 2014-2024. Code: MIT. Data/docs: CC BY 4.0.",
+  "keywords": [
+    "ambulance",
+    "emergency medical services",
+    "hospital acceptance",
+    "response time",
+    "Japan",
+    "health services research",
+    "panel data"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/haruki00430/hospital-acceptance-friction-ambulance-delay",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
