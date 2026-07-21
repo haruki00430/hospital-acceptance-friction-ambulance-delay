@@ -1,6 +1,6 @@
 > **Repository:** https://github.com/haruki00430/hospital-acceptance-friction-ambulance-delay  
 > **Reproduction:** [`REPRODUCE.md`](REPRODUCE.md) · [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md) · [`analysis/README.md`](analysis/README.md) · [`CITATION.cff`](CITATION.cff)  
-> **Visibility:** Private (release materials are public-ready; flip to Public after Zenodo / manuscript Data Sharing update)
+> **Zenodo:** https://doi.org/10.5281/zenodo.21392281
 
 # Hospital-Acceptance Friction and Delayed Ambulance Scene Arrival
 
@@ -8,7 +8,7 @@
 
 **論文タイトル（日本語）**: 病院収容照会困難と救急現場到着遅延の連動：日本の都道府県×年パネル分析（2014–2024）
 
-**Manuscript target:** *Prehospital Emergency Care* (Taylor & Francis)  
+**Manuscript target:** *Paramedicine* (Sage, Diamond OA) — under review  
 **Authors:** Haruki Saito; Tetsuya Ohira (Fukushima Medical University)
 
 ---
@@ -82,5 +82,8 @@ This study uses only publicly available aggregate government statistics and does
 
 ## Citation / 引用
 
-Please cite this repository via `CITATION.cff` (and the Zenodo DOI once archived).  
-Zenodo DOI 取得後は `CITATION.cff` と Data Sharing Statement を更新してください。
+Please cite this repository via `CITATION.cff` or the Zenodo archive:  
+https://doi.org/10.5281/zenodo.21392281
+
+引用は `CITATION.cff` または Zenodo アーカイブ（上記 DOI）をご利用ください。  
+論文掲載後は `related_identifiers` に掲載 DOI を追記予定です。
